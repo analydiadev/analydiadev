@@ -5,7 +5,7 @@
 <!--🖼️ALIEN-->
 <p align="center">
 <img src="https://media.tenor.com/kL0QcQGgm_IAAAAd/ufo-alien.gif" height="240" width="370">
-
+<br><br>  
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -30,13 +30,10 @@
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-dark-mode.gif" height="50" width="50">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-dark-mode.gif" height="50" width="50">
 <br><br>  
-<br><br>  
-
-
 <!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
 <!--<p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/d2e2d90f68200d727900433f422c0a1de222919c/images/banner.svg"  width="600">
-
+<br><br>  
 <!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400" height="400">
@@ -44,8 +41,6 @@
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
 
 <!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
 
