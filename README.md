@@ -110,7 +110,7 @@
 
 <!--💬🃏QUOTESCARD / 🌐WEBSITE: https://github.com/PiyushSuthar/github-readme-quotes#Demo & https://github.com/shravan20/github-readme-quotes -->
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&?quote=Knowledge?is?power">
+<img src="https://user-images.githubusercontent.com/92491382/217713026-75b8a709-e47a-4749-8a5c-bba6f4c34201.svg">
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
