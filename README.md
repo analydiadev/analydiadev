@@ -76,21 +76,22 @@
 <!--🌯GITHUBWRAPPED / 🌐https://github.com/neat-run/wrapped -->
 <p align="center">
 <a href="https://anamoreiradevs.wrapped.run"><b>My GitHub Wrapped</b></a>
+<br><br>  
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=anamoreiradevs&show_icons=true&theme=merko">
-
+<br><br>  
 <!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
 <img src="https://streak-stats.demolab.com?user=anamoreiradevs&theme=merko&hide_border=false">
-
+<br><br>  
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamoreiradevs&layout=compact&theme=merko">
-
+<br><br>  
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <!---<img src="https://github-readme-stats.vercel.app/api/pin/?username=anamoreiradevs&repo=github-readme-stats">
-
+<br><br>  
 
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges && https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
@@ -98,25 +99,25 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/anamoreiradevs"/></a>
 <a href="https://github.com/trinib?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/anamoreiradevs?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-
+<br><br>  
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=anamoreiradevs&color=0E9C47&style=for-the-badge">
-
+<br><br>  
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anamoreiradevs&bg_color=000000&color=0ce91b&line=08f718&point=f10427&area=true&hide_border=true" width="100%">
-
+<br><br>  
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://user-images.githubusercontent.com/92491382/217703982-d34fa0e4-e273-47b6-a3f4-f8cd674c0f85.svg" width="100%">
-
+<br><br>  
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+<br><br>  
 
 <!--💬QUOTESTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
