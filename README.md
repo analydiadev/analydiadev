@@ -57,7 +57,10 @@
 <img src="https://user-images.githubusercontent.com/92491382/217699002-0d812f72-ffe9-4246-ba66-f778f569a725.gif"  width="100px" height="100px">
 <img src="https://user-images.githubusercontent.com/92491382/217699002-0d812f72-ffe9-4246-ba66-f778f569a725.gif"  width="100px" height="100px">
 <img src="https://user-images.githubusercontent.com/92491382/217699002-0d812f72-ffe9-4246-ba66-f778f569a725.gif"  width="100px" height="100px">
-<img src="https://user-images.githubusercontent.com/92491382/217699002-0d812f72-ffe9-4246-ba66-f778f569a725.gif"  width="100px" height="100px"></p>
+<img src="https://user-images.githubusercontent.com/92491382/217699002-0d812f72-ffe9-4246-ba66-f778f569a725.gif"  width="100px" height="100px">
+<img src="https://user-images.githubusercontent.com/92491382/217699002-0d812f72-ffe9-4246-ba66-f778f569a725.gif"  width="100px" height="100px">
+ <img src="https://user-images.githubusercontent.com/92491382/217699002-0d812f72-ffe9-4246-ba66-f778f569a725.gif"  width="100px" height="100px"> 
+</p>
 
 <!--🌯GITHUBWRAPPED / 🌐https://github.com/neat-run/wrapped -->
 <p align="center">
