@@ -10,7 +10,7 @@
 
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
-<a href="https://www.youtube.com/watch?v=Rj4RfirEoQQ"><img src="https://user-images.githubusercontent.com/92491382/236365839-5a97dd05-cb48-43e5-82a2-356c0d8e4fcd.svg"></a>
+<a href="https://youtu.be/qerVyrLKzA0"><img src="https://user-images.githubusercontent.com/92491382/236365839-5a97dd05-cb48-43e5-82a2-356c0d8e4fcd.svg"></a>
 
 <br><br>
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
