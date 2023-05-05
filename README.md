@@ -30,11 +30,11 @@
 <!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
 <!--<p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/d2e2d90f68200d727900433f422c0a1de222919c/images/banner.svg"  width="600">
-<br><br>
+
 <!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="700" height="500">
-
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="600" height="600">
+<br><br>
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -50,7 +50,7 @@
 <p align="center">
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+ <br><br>
 <!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://user-images.githubusercontent.com/92491382/236367108-34c9cc0b-63e2-405b-9af7-eb1dc581d530.gif">
@@ -101,16 +101,11 @@
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anamoreiradevs&theme=tokyo-night" width="100%">
 <br><br>
- 
-
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<br><br>
-
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <!-- <p align="center">
 <img src="https://user-images.githubusercontent.com/92491382/236369950-31910c94-451f-4b7f-bba7-8b350e5cd4ca.gif" width="500"> -->
-
 <p align="center">
  >
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-bellsprout.png" height="50" width="50">
