@@ -12,22 +12,20 @@
 <p align="center">
 <a href="https://www.youtube.com/watch?v=Rj4RfirEoQQ"><img src="https://user-images.githubusercontent.com/92491382/236365839-5a97dd05-cb48-43e5-82a2-356c0d8e4fcd.svg"></a>
 
-
+<br><br>
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-snorlax.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-snorlax.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-snorlax.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-snorlax.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-snorlax.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-snorlax.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-snorlax.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-snorlax.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-snorlax.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-snorlax.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-snorlax.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-snorlax.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-snorlax.png" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-clefairy.png" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-dragonair.png" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-minun.png" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-pikachu.png" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-emolga.png" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-mega-venusaur.png" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-poliwag.png" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-litten.png" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-politoed.png" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-oddish.png" height="50" width="50">
 <br><br>
 <!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
 <!--<p align="center">
@@ -35,7 +33,7 @@
 <br><br>
 <!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400" height="400">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="700" height="500">
 
 <!--📏LINE-->
 <p align="center">
@@ -84,7 +82,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamoreiradevs&layout=compact&theme=cobalt">
 <br><br>
 
-
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges && https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
   <a href="https://github.com/anamoreiradevs?tab=stars&sort=stargazers">
@@ -93,10 +90,18 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/anamoreiradevs?color=blue&labelColor=black&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
-<br><br>
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/92491382/236367457-72fcdea8-0b04-4f27-a798-dad186679e4a.gif"  width="100px" height="100px">
+<img src="https://user-images.githubusercontent.com/92491382/236367457-72fcdea8-0b04-4f27-a798-dad186679e4a.gif"  width="100px" height="100px">
+<img src="https://user-images.githubusercontent.com/92491382/236367457-72fcdea8-0b04-4f27-a798-dad186679e4a.gif"  width="100px" height="100px">
+<img src="https://user-images.githubusercontent.com/92491382/236367457-72fcdea8-0b04-4f27-a798-dad186679e4a.gif"  width="100px" height="100px">
+<img src="https://user-images.githubusercontent.com/92491382/236367457-72fcdea8-0b04-4f27-a798-dad186679e4a.gif"  width="100px" height="100px">
+ <img src="https://user-images.githubusercontent.com/92491382/236367457-72fcdea8-0b04-4f27-a798-dad186679e4a.gif"  width="100px" height="100px">
+</p>
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anamoreiradevs&theme=tokyo-night" width="100%">
 <br><br>
+ 
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -106,9 +111,19 @@
 <!-- <p align="center">
 <img src="https://user-images.githubusercontent.com/92491382/236369950-31910c94-451f-4b7f-bba7-8b350e5cd4ca.gif" width="500"> -->
 
+<p align="center">
+ >
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-bellsprout.png" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/pokemon/blob-pkmn-voltorb.png" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/pokemon/blob-pkmn-sobble.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-sandshrew.png" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-scorbunny.gif" height="50" width="50">
+<
+<br><br>
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://user-images.githubusercontent.com/92491382/217703982-d34fa0e4-e273-47b6-a3f4-f8cd674c0f85.svg" width="100%">
 <br><br>
+
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
