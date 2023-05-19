@@ -10,7 +10,7 @@
 
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
-<a href="https://youtu.be/qerVyrLKzA0"><img src="https://user-images.githubusercontent.com/92491382/236365839-5a97dd05-cb48-43e5-82a2-356c0d8e4fcd.svg"></a>
+<a href="https://youtu.be/qerVyrLKzA0](https://www.youtube.com/watch?v=x8VYWazR5mE"><img src="https://user-images.githubusercontent.com/92491382/236365839-5a97dd05-cb48-43e5-82a2-356c0d8e4fcd.svg"></a>
 
 <br><br>
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
@@ -144,7 +144,7 @@
 <!--RECENT_ACTIVITY:end-->
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i> : <b>Thursday, May 4th, 2023, 11:12:02 PM</b>
+<i>Last refresh</i> : <b>Friday, May 19, 2023, 8:54:10 PM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--
