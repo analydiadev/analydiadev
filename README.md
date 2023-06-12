@@ -14,7 +14,7 @@
  <br><br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,github,vue,nodejs" />
+    <img src="https://skillicons.dev/icons?i=github,vue,nodejs,typescript" />
   </a>
 </p>
 
