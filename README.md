@@ -111,8 +111,7 @@
 <img src="https://user-images.githubusercontent.com/92491382/236367457-72fcdea8-0b04-4f27-a798-dad186679e4a.gif"  width="100px" height="100px">
  <img src="https://user-images.githubusercontent.com/92491382/236367457-72fcdea8-0b04-4f27-a798-dad186679e4a.gif"  width="100px" height="100px">
 </p>
-<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=anamoreiradevs&theme=tokyo-night" width="100%">
+
 <br><br>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
