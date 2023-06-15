@@ -161,7 +161,7 @@
 <!--RECENT_ACTIVITY:end-->
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i> : <b>Friday, May 19, 2023, 8:54:10 PM</b>
+<!-- <i>Last refresh</i> : <b>Friday, May 19, 2023, 8:54:10 PM</b> -->
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--
