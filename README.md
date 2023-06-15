@@ -78,10 +78,10 @@
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anamoreiradevs&show_icons=true&theme=cobalt">
+<img src="https://github-readme-stats.vercel.app/api?username=analydiadev&show_icons=true&theme=cobalt">
 <br><br>
 <!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
-<img src="https://streak-stats.demolab.com?user=anamoreiradevs&theme=cobalt&hide_border=false">
+<img src="https://streak-stats.demolab.com?user=analydiadev&theme=cobalt&hide_border=false">
 <br><br>
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
@@ -93,7 +93,7 @@
   <a href="https://github.com/analydiadev?tab=stars&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=blue&labelColor=black&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/anamoreiradevs"/></a>
 <a href="https://github.com/trinib?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/anamoreiradevs?color=blue&labelColor=black&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/analydiadev?color=blue&labelColor=black&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
  
  <p align="center">
   <a href="https://skillicons.dev">
