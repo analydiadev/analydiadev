@@ -38,11 +38,12 @@
 <br><br>
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
+<p align="left">
  
 <img src="https://github-readme-stats.vercel.app/api?username=analydiadev&show_icons=true&theme=neon">
 <img src="https://streak-stats.demolab.com?user=analydiadev&theme=neon&hide_border=false">
  <br><br>
+ <p align="center">
  <img src="https://github.com/analydiadev/022222/assets/92491382/d45bad52-aa2e-43ab-99fd-e7900fa3c0c0" width=200 height=200>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=analydiadev&layout=compact&theme=neon">
 <img src="https://github.com/analydiadev/022222/assets/92491382/d45bad52-aa2e-43ab-99fd-e7900fa3c0c0" width=200 height=200>
