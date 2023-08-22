@@ -38,7 +38,6 @@
 <br><br>
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="left">
  
 <img src="https://github-readme-stats.vercel.app/api?username=analydiadev&show_icons=true&theme=neon">
 <img src="https://streak-stats.demolab.com?user=analydiadev&theme=neon&hide_border=false">
