@@ -1,75 +1,36 @@
-<!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
+
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=71&pause=1000&color=FF07B7&center=true&width=722&height=100&lines=GREETINGS" alt="Typing SVG" /></a>
-<!--🖼️ALIEN-->
-<p align="center">
-<img src="https://user-images.githubusercontent.com/92491382/236372709-9827497a-9a06-490b-8e98-d3ea1e10c5bc.gif" height="340" width="470">
 <br><br>
+<img src="https://github.com/analydiadev/022222/assets/92491382/a1d68805-3a8e-496d-9df5-108efb40ae39" height="500" width="100%">
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+ <p align="left">
+    <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif?cid=6c09b952en0srapaywsgjn84gawp8fbh6jkecsqijd0tbyw8&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="90" height="90"/>
+    <img width="80" height="80" src="https://media.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif" class="at"/>
+    <img width="80" height="80" src="https://media.tenor.com/A15H8E1VUh8AAAAC/github-cat.gif" class="at"/>
+  <img width="90" height="90" src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fmeta-l.cdn.bubble.io%2Ff1626431185579x696909144901865600%2F%25231-AWS-File-uploader-Any-size%25281%2529.gif?w=&h=&auto=compress&dpr=1&fit=max" class="at"/></a>
+  <img src="https://github.com/analydiadev/022222/assets/92491382/8c87a482-6698-48de-824a-83ef1eabecb0" width=80 height=80>
+  <img src="https://github.com/analydiadev/022222/assets/92491382/5320e190-b382-4cae-9b66-0b7b7840bb00" width=300 height=300 align=right>
+  <br><br>
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
-<a href="https://youtu.be/qerVyrLKzA0](https://www.youtube.com/watch?v=x8VYWazR5mE"><img src="https://user-images.githubusercontent.com/92491382/236365839-5a97dd05-cb48-43e5-82a2-356c0d8e4fcd.svg"></a>
+<a href="https://www.youtube.com/watch?v=oCS_aMjh3-E"><img src="https://github.com/analydiadev/022222/assets/92491382/d8179317-c8b0-4d22-ab3d-81226efc7f27" align=left></a>
  <br><br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,nodejs,javascript" />
-  </a>
 </p>
 
 <br><br>
-<!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
-<p align="center">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-snorlax.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-clefairy.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-dragonair.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-minun.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-pikachu.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-emolga.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-mega-venusaur.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-poliwag.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-litten.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-politoed.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-oddish.png" height="50" width="50">
 <br><br>
-<!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
-<!--<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/d2e2d90f68200d727900433f422c0a1de222919c/images/banner.svg"  width="600">
+<br><br>
 
 <!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="600" height="600">
+<img src="https://github.com/analydiadev/022222/assets/92491382/7b404336-bcd2-49fc-97b8-c787e145a1e7" width="800" height="300">
 <br><br>
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
 
-
-<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
-
-<!--💬🃏FUNFACT / 🌐https://github.com/siddharth2016/quote-readme#update-your-readme -->
-<p align="center">
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
- <br><br>
-<!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://user-images.githubusercontent.com/92491382/236367108-34c9cc0b-63e2-405b-9af7-eb1dc581d530.gif">
-
-<!--🖼️OCTOCAT-->
-<p align="center">
-<img src="https://user-images.githubusercontent.com/92491382/236367457-72fcdea8-0b04-4f27-a798-dad186679e4a.gif"  width="100px" height="100px">
-<img src="https://user-images.githubusercontent.com/92491382/236367457-72fcdea8-0b04-4f27-a798-dad186679e4a.gif"  width="100px" height="100px">
-<img src="https://user-images.githubusercontent.com/92491382/236367457-72fcdea8-0b04-4f27-a798-dad186679e4a.gif"  width="100px" height="100px">
-<img src="https://user-images.githubusercontent.com/92491382/236367457-72fcdea8-0b04-4f27-a798-dad186679e4a.gif"  width="100px" height="100px">
-<img src="https://user-images.githubusercontent.com/92491382/236367457-72fcdea8-0b04-4f27-a798-dad186679e4a.gif"  width="100px" height="100px">
- <img src="https://user-images.githubusercontent.com/92491382/236367457-72fcdea8-0b04-4f27-a798-dad186679e4a.gif"  width="100px" height="100px">
-</p>
 
 <!--🌯GITHUBWRAPPED / 🌐https://github.com/neat-run/wrapped -->
 <p align="center">
@@ -78,18 +39,20 @@
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=analydiadev&show_icons=true&theme=cobalt">
-<br><br>
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=analydiadev&show_icons=true&theme=neon">
+<img src="https://streak-stats.demolab.com?user=analydiadev&theme=neon&hide_border=false">
+ <br><br>
+ <img src="https://github.com/analydiadev/022222/assets/92491382/d45bad52-aa2e-43ab-99fd-e7900fa3c0c0" width=200 height=200>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=analydiadev&layout=compact&theme=neon">
+<img src="https://github.com/analydiadev/022222/assets/92491382/d45bad52-aa2e-43ab-99fd-e7900fa3c0c0" width=200 height=200>
+<p align="left">
 <!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
-<img src="https://streak-stats.demolab.com?user=analydiadev&theme=cobalt&hide_border=false">
-<br><br>
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=analydiadev&layout=compact&theme=cobalt">
 <br><br>
 
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges && https://github.com/idealclover/GitHub-Star-Counter -->
-<p align="center">
+<!----<p align="center">
   <a href="https://github.com/analydiadev?tab=stars&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=blue&labelColor=black&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/anamoreiradevs"/></a>
 <a href="https://github.com/trinib?tab=followers">
@@ -102,122 +65,11 @@
 </p>
  
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<p align="center">
- <p align="center">
-<img src="https://user-images.githubusercontent.com/92491382/236367457-72fcdea8-0b04-4f27-a798-dad186679e4a.gif"  width="100px" height="100px">
-<img src="https://user-images.githubusercontent.com/92491382/236367457-72fcdea8-0b04-4f27-a798-dad186679e4a.gif"  width="100px" height="100px">
-<img src="https://user-images.githubusercontent.com/92491382/236367457-72fcdea8-0b04-4f27-a798-dad186679e4a.gif"  width="100px" height="100px">
-<img src="https://user-images.githubusercontent.com/92491382/236367457-72fcdea8-0b04-4f27-a798-dad186679e4a.gif"  width="100px" height="100px">
-<img src="https://user-images.githubusercontent.com/92491382/236367457-72fcdea8-0b04-4f27-a798-dad186679e4a.gif"  width="100px" height="100px">
- <img src="https://user-images.githubusercontent.com/92491382/236367457-72fcdea8-0b04-4f27-a798-dad186679e4a.gif"  width="100px" height="100px">
-</p>
-
-<br><br>
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<!-- <p align="center">
-<img src="https://user-images.githubusercontent.com/92491382/236369950-31910c94-451f-4b7f-bba7-8b350e5cd4ca.gif" width="500"> -->
-<p align="center">
- <p align="center">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-snorlax.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-clefairy.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-dragonair.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-minun.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-pikachu.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-emolga.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-mega-venusaur.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-poliwag.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-litten.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-politoed.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/pokemon/blob-pkmn-oddish.png" height="50" width="50">
-<br><br>
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://user-images.githubusercontent.com/92491382/217703982-d34fa0e4-e273-47b6-a3f4-f8cd674c0f85.svg" width="100%">
-<br><br>
-
-
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<br><br>
-
+ 
+<img src="https://github.com/analydiadev/022222/assets/92491382/e61ae28e-2c69-4933-966d-a3de62f2006e" width="100%" margin-bottom="0">
 <!--💬QUOTESTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <!-- <p align="center">
 <img src="https://i.imgur.com/OFloXS3.gif" height="30" width="150"> -->
-
-<!--💬🃏QUOTESCARD / 🌐WEBSITE: https://github.com/PiyushSuthar/
-
-<!--📏LINE-->
-<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-</details>
-</details><h5 align="center">
-  </tr>
- </table>
-     -->
-
-<!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-<p align="right">
-<!--RECENT_ACTIVITY:last_update-->
-<!-- <i>Last refresh</i> : <b>Friday, May 19, 2023, 8:54:10 PM</b> -->
-<!--RECENT_ACTIVITY:last_update_end-->
-
-<!--
-
-𝐈𝐅 𝐘𝐎𝐔 𝐑𝐄𝐀𝐂𝐇𝐄𝐃 𝐇𝐄𝐑𝐄 (C O N G R A T S 🎉🎈🎊)
-
-𝐂𝐇𝐄𝐂𝐊 𝐎𝐔𝐓 𝐓𝐇𝐄𝐒𝐄:
+ <p align="center">
 
 
-██████╗ ███████╗ █████╗ ██╗   ██╗████████╗██╗███████╗██╗   ██╗     ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗██████╗
-██╔══██╗██╔════╝██╔══██╗██║   ██║╚══██╔══╝██║██╔════╝╚██╗ ██╔╝    ██╔════╝ ██║╚══██╔══╝██║  ██║██║   ██║██╔══██╗
-██████╔╝█████╗  ███████║██║   ██║   ██║   ██║█████╗   ╚████╔╝     ██║  ███╗██║   ██║   ███████║██║   ██║██████╔╝
-██╔══██╗██╔══╝  ██╔══██║██║   ██║   ██║   ██║██╔══╝    ╚██╔╝      ██║   ██║██║   ██║   ██╔══██║██║   ██║██╔══██╗
-██████╔╝███████╗██║  ██║╚██████╔╝   ██║   ██║██║        ██║       ╚██████╔╝██║   ██║   ██║  ██║╚██████╔╝██████╔╝
-╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝╚═╝        ╚═╝        ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝
-https://github.com/rzashakeri/beautify-github-profile
-
-
- ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗██████╗     ███████╗███████╗ █████╗ ██████╗  ██████╗██╗  ██╗
-██╔════╝ ██║╚══██╔══╝██║  ██║██║   ██║██╔══██╗    ██╔════╝██╔════╝██╔══██╗██╔══██╗██╔════╝██║  ██║
-██║  ███╗██║   ██║   ███████║██║   ██║██████╔╝    ███████╗█████╗  ███████║██████╔╝██║     ███████║
-██║   ██║██║   ██║   ██╔══██║██║   ██║██╔══██╗    ╚════██║██╔══╝  ██╔══██║██╔══██╗██║     ██╔══██║
-╚██████╔╝██║   ██║   ██║  ██║╚██████╔╝██████╔╝    ███████║███████╗██║  ██║██║  ██║╚██████╗██║  ██║
- ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝     ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
-https://github.com/gennaro-tedesco/gh-s
-
-
-███████╗██╗   ██╗███╗   ██╗ ██████╗    ███████╗ ██████╗ ██████╗ ██╗  ██╗███████╗
-██╔════╝╚██╗ ██╔╝████╗  ██║██╔════╝    ██╔════╝██╔═══██╗██╔══██╗██║ ██╔╝██╔════╝
-███████╗ ╚████╔╝ ██╔██╗ ██║██║         █████╗  ██║   ██║██████╔╝█████╔╝ ███████╗
-╚════██║  ╚██╔╝  ██║╚██╗██║██║         ██╔══╝  ██║   ██║██╔══██╗██╔═██╗ ╚════██║
-███████║   ██║   ██║ ╚████║╚██████╗    ██║     ╚██████╔╝██║  ██║██║  ██╗███████║
-╚══════╝   ╚═╝   ╚═╝  ╚═══╝ ╚═════╝    ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-https://github.com/wei/pull
-
-██████╗ ███████╗███████╗██╗███╗   ██╗███████╗██████╗        ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗██████╗
-██╔══██╗██╔════╝██╔════╝██║████╗  ██║██╔════╝██╔══██╗      ██╔════╝ ██║╚══██╔══╝██║  ██║██║   ██║██╔══██╗
-██████╔╝█████╗  █████╗  ██║██╔██╗ ██║█████╗  ██║  ██║█████╗██║  ███╗██║   ██║   ███████║██║   ██║██████╔╝
-██╔══██╗██╔══╝  ██╔══╝  ██║██║╚██╗██║██╔══╝  ██║  ██║╚════╝██║   ██║██║   ██║   ██╔══██║██║   ██║██╔══██╗
-██║  ██║███████╗██║     ██║██║ ╚████║███████╗██████╔╝      ╚██████╔╝██║   ██║   ██║  ██║╚██████╔╝██████╔╝
-╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═══╝╚══════╝╚═════╝        ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝
-https://github.com/refined-github/refined-github
-
--->
-
-<!--
-**trinib/trinib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
