@@ -44,9 +44,9 @@
   
  <br><br>
  <p align="center">
- <img src="https://media2.giphy.com/media/7sUM9x7DkMVoW8WC8Y/giphy.gif?cid=ecf05e47gag79sagy82wh4z823bx5hy4qj6ds4zllfdfhajd&ep=v1_gifs_related&rid=giphy.gif&ct=g" width=200 height=200>
+ <img src="https://github.com/analydiadev/Node.js/assets/92491382/b4f7773a-6947-47cf-b851-0c42941c9943" width=200 height=200>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=analydiadev&layout=compact&theme=neon">
-<img src="https://media2.giphy.com/media/7sUM9x7DkMVoW8WC8Y/giphy.gif?cid=ecf05e47gag79sagy82wh4z823bx5hy4qj6ds4zllfdfhajd&ep=v1_gifs_related&rid=giphy.gif&ct=g" width=200 height=200>
+<img src="https://github.com/analydiadev/Node.js/assets/92491382/b4f7773a-6947-47cf-b851-0c42941c9943" width=200 height=200>
 <p align="left">
 <!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
