@@ -68,6 +68,7 @@
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
  
 <img src="https://media.giphy.com/media/3oKIPlCroSFHV8uoko/giphy.gif" width="100%" height=300 bprder-radius=20>
+<img src="https://github.com/analydiadev/Node.js/assets/92491382/e4b79017-85b1-49f7-a7a0-a305195be49b" width="100%" bprder-radius=20>
 <!--💬QUOTESTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <!-- <p align="center">
 <img src="https://i.imgur.com/OFloXS3.gif" height="30" width="150"> -->
