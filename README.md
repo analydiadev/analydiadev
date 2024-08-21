@@ -3,13 +3,6 @@
 <br><br>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVtbmp2eXdkMm95eW54bjJsc21naGVmY3RiNzdqbXQ5OGtrOG01MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41m1CuaT5Oy624Ra/giphy.gif" height="500" width="100%">
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
- <p align="left">
-    <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif?cid=6c09b952en0srapaywsgjn84gawp8fbh6jkecsqijd0tbyw8&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="90" height="90"/>
-    <img width="80" height="80" src="https://media.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif" class="at"/>
-    <img width="80" height="80" src="https://media.tenor.com/A15H8E1VUh8AAAAC/github-cat.gif" class="at"/>
-  <img width="90" height="90" src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fmeta-l.cdn.bubble.io%2Ff1626431185579x696909144901865600%2F%25231-AWS-File-uploader-Any-size%25281%2529.gif?w=&h=&auto=compress&dpr=1&fit=max" class="at"/></a>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRtcno5bThjeGRjbXZ3enNkOXZkZjVvYjFrcWgwZzRwb3o2d2xldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qhmpkzlfk2ibsHPgG5/giphy.gif" width=80 height=80>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjI0MHNnZTEzZGdrdXYxYXI4bDI4bWl3NW14NGxob3lvcXh2eW05byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTgj4zdM2vPLxp9p2U/giphy.gif" width=300 height=300 align=right>
   <br><br>
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
