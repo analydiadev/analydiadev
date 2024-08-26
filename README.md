@@ -2,9 +2,16 @@
 <p align="center">
 <br><br>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVtbmp2eXdkMm95eW54bjJsc21naGVmY3RiNzdqbXQ5OGtrOG01MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41m1CuaT5Oy624Ra/giphy.gif" height="500" width="100%">
+  
 <!--📏LINE-->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjI0MHNnZTEzZGdrdXYxYXI4bDI4bWl3NW14NGxob3lvcXh2eW05byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTgj4zdM2vPLxp9p2U/giphy.gif" width=300 height=300 align=right>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-download-in-svg-png-gif-file-formats--programming-language-pack-logos-icons-1174949.png?f=webp&w=128" width=70 height=70 align=left>
+   <img src="https://www.svgrepo.com/show/376344/python.svg" width=70 height=70 align=left>
+  <img src="https://www.svgrepo.com/show/376337/node-js.svg" width=70 height=70 align=left>
+ 
+  
   <br><br>
+  
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
 <a href="https://youtu.be/wL8DVHuWI7Y?si=eNB_Ir5hKW5V-yTs"><img src="https://github.com/analydiadev/Node.js/assets/92491382/9ecfec73-ee3f-49e1-a567-75f692a9f3c2" align=left></a>
