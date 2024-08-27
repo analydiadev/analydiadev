@@ -6,7 +6,6 @@
 <!--📏LINE-->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjI0MHNnZTEzZGdrdXYxYXI4bDI4bWl3NW14NGxob3lvcXh2eW05byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTgj4zdM2vPLxp9p2U/giphy.gif" width=300 height=300 align=right>
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-download-in-svg-png-gif-file-formats--programming-language-pack-logos-icons-1174949.png?f=webp&w=128" width=70 height=70 align=left>
-   <img src="https://www.svgrepo.com/show/376344/python.svg" width=70 height=70 align=left>
   <img src="https://www.svgrepo.com/show/376337/node-js.svg" width=70 height=70 align=left>
  
   
